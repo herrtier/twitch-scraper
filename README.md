@@ -6,7 +6,7 @@ Vibe coded using chatgpt (free).
 
 - requires twitch account, especially api key and secret from twitch dev tools
   - enter credentials (app id and app secret, not user + pass) in `.env`
-- have python (tested on 3.11)
+- have python (tested on 3.11) with pip
 - `git clone https://github.com/herrtier/twitch-scraper.git`
 - `cd twitch-scraper`
 - `pip install -r requirements.txt`
